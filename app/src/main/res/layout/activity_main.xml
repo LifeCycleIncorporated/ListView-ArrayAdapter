@@ -12,8 +12,7 @@
         android:layout_height="match_parent"
         android:listSelector="#E8E6E6"
         android:dividerHeight="1dp"
-        android:divider="#6CBCFB"
-        >
+        android:divider="#6CBCFB">
     </ListView>
 
 </LinearLayout>
